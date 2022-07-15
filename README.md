@@ -1,7 +1,7 @@
 ## "Hello World" Android App
 
 ### App Description
-This is my Android App made with the help of CodePath tutorials. The app consists of four buttons when tapped are used to change the text cooler of the label, change the color of the background view, change the text string of the label, and update the label text with the custom text entered into the text field. 
+This is my Android App made with the help of CodePath tutorials. The app consists of four buttons when tapped are used to change the text coler of the label, change the color of the background view, change the text string of the label, and update the label text with the custom text entered into the text field. 
 
 ### App Walk-though
 `
